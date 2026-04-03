@@ -6,13 +6,6 @@ A Machine Learning-powered web application built using **Streamlit** that predic
 
 # Live Demo
 https://bhardwaj-komal-mental-health-prediction-app-app-nhojad.streamlit.app/
-📸 App Preview
-<img width="832" height="712" alt="image" src="https://github.com/user-attachments/assets/df17050b-4ccf-49e9-904a-fd1735f18bd5" />
-
-
-
-
-
 ## 🚀 Features
 
 * Predict mental health treatment likelihood
